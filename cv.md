@@ -8,7 +8,7 @@
 
 ## About me
 
-### I want to become a front-end developer. I want be be surrounded by smart people who want to develop. Ready to learn something new. Sociable.
+I want to become a front-end developer. I want be be surrounded by smart people who want to develop. Ready to learn something new. Sociable.
 
 ## Skills
 
@@ -31,12 +31,12 @@ function checkPassword(password) {
 
 ## Education
 
-### National transport university
+- National transport university
 
-### Faculty of Transport Information Technologies, Computer Science
+> Faculty of Transport Information Technologies, Computer Science
 
-### September 2013 - June 2017 | Ukraine
+> September 2013 - June 2017 | Ukraine
 
 ## English 
 
-### B1 (Intermediate English)
+- B1 (Intermediate English)
