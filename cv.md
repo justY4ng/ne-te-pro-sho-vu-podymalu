@@ -2,6 +2,8 @@
 
 ## Contacts
 
+* **Location:** Kyiv, Ukraine
+
 * **Phone:** +380985360248
 
 * **E-mail:** workathome763@gmail.com
@@ -37,6 +39,10 @@ function checkPassword(password) {
 
 > September 2013 - June 2017 | Ukraine
 
-## English 
+## Languages 
 
-- B1 (Intermediate English)
+- Ukrainian - native
+
+- English - B1 (Intermediate English)
+
+- Russian - basic
